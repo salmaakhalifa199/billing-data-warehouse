@@ -1,0 +1,16 @@
+billing_id,customer_id,customer_name,country,industry,category,service_name,billing_date,amount,units_used,unit_price
+BL-001,C-101,Acme Corp,USA,Finance,Compute,VM-Large,2024-01-10,4250.00,850,5.00
+BL-002,C-101,Acme Corp,USA,Finance,Storage,Blob-500GB,2024-01-10,1200.00,500,2.40
+BL-003,C-102,TechVision,UK,Technology,Compute,VM-Medium,2024-01-15,3100.00,620,5.00
+BL-004,C-102,TechVision,UK,Technology,Network,CDN-Basic,2024-01-15,870.00,290,3.00
+BL-005,C-103,Gulf Motors,UAE,Automotive,Compute,VM-Large,2024-02-03,5500.00,1100,5.00
+BL-006,C-103,Gulf Motors,UAE,Automotive,Database,SQL-Managed,2024-02-03,2200.00,440,5.00
+BL-007,C-104,EduLearn,Egypt,Education,Storage,Blob-500GB,2024-02-10,960.00,400,2.40
+BL-008,C-104,EduLearn,Egypt,Education,Compute,VM-Small,2024-02-10,750.00,300,2.50
+BL-009,C-105,HealthPlus,Germany,Healthcare,Database,SQL-Managed,2024-03-01,3300.00,660,5.00
+BL-010,C-105,HealthPlus,Germany,Healthcare,Network,CDN-Premium,2024-03-01,1800.00,360,5.00
+BL-011,C-101,Acme Corp,USA,Finance,Compute,VM-Large,2024-03-15,4750.00,950,5.00
+BL-012,C-106,RetailMax,France,Retail,Compute,VM-Medium,2024-03-20,2800.00,560,5.00
+BL-013,C-106,RetailMax,France,Retail,Storage,Blob-500GB,2024-03-20,1440.00,600,2.40
+BL-014,C-107,LogiFreight,India,Logistics,Network,CDN-Basic,2024-04-05,990.00,330,3.00
+BL-015,C-107,LogiFreight,India,Logistics,Database,SQL-Managed,2024-04-05,2750.00,550,5.00
