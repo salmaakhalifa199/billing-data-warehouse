@@ -5,7 +5,7 @@
 A star schema data warehouse built on SQL Server for billing analytics.
 
 ## Schema
-![Star Schema](screenshots/star schema.png)
+![Star Schema](screenshots/star_schema.png)
 
 ## Tables
 | Table | Type | Description |
